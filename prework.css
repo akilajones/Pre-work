@@ -1,0 +1,53 @@
+.header2{
+  font-size: 20px;
+  color: black;
+}
+.header3{
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+}
+   
+   .picture{
+      height: 200px;
+      position: static;
+      margin-left: 200px;
+      
+    }
+    .table, th, td{
+      margin-top: 20px;
+      margin-bottom: 40px;
+      border: 1px solid black;
+    }
+    .paragraph{
+      font-size: 25px;
+      color: black;
+    }
+
+    #para1{
+      text-align: center;
+      font-size: 25px;
+      color: peru;
+      font-style: italic;
+    }
+
+    
+   
+    
+  
+    ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  }
+  
+  li {
+  float: left;
+  }
+  
+  li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+  }
